@@ -13,8 +13,6 @@ O **Tarefa Plus** é uma aplicação web moderna e responsiva para gerenciamento
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
-### Interfaces e Web / Mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,19 +32,6 @@ O **Tarefa Plus** é uma aplicação web moderna e responsiva para gerenciamento
 * **Interface Responsiva:** Design limpo e adaptável para dispositivos móveis e desktop, utilizando `React Icons` para uma navegação visualmente intuitiva.
 
 ---
-
-
-## 🚀 Tecnologias Utilizadas
-
-### Interfaces e Web / Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Banco de Dados e Serviços
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Auth.js](https://img.shields.io/badge/Auth.js-b14bf3?style=for-the-badge&logo=nextauthdotjs&logoColor=white)
 
 
 ## 🛠️ Como Executar o Projeto Localmente
