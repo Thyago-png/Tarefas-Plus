@@ -35,20 +35,6 @@ O **Tarefa Plus** é uma aplicação web moderna e responsiva para gerenciamento
 
 ---
 
-## 🛠️ Como Executar o Projeto Localmente
-
-Siga os passos abaixo para rodar a aplicação em sua máquina:
-
-### 1. Clonar o Repositório
-```bash
-git clone [https://github.com/Thyago-png/Thyago-png.git](https://github.com/Thyago-png/Thyago-png.git)
-cd tarefaslt-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details. 
-
-O **Tarefa Plus** é uma aplicação web moderna e responsiva para gerenciamento de tarefas diárias. O projeto conta com autenticação segura via Google, permitindo que os usuários criem, visualizem e deletem suas próprias tarefas e perfis com total privacidade e persistência de dados em tempo real.
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -62,16 +48,6 @@ O **Tarefa Plus** é uma aplicação web moderna e responsiva para gerenciamento
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Auth.js](https://img.shields.io/badge/Auth.js-b14bf3?style=for-the-badge&logo=nextauthdotjs&logoColor=white)
 
----
-
-## ⚙️ Funcionalidades
-
-* **Autenticação com Google:** Login social seguro e rápido utilizando a biblioteca Auth.js.
-* **Operações CRUD no Banco de Dados:** Criação, listagem e exclusão de tarefas em tempo real integradas ao Firebase Firestore.
-* **Gerenciamento de Conta:** Opção para exclusão completa de usuários e seus respectivos dados do sistema.
-* **Interface Responsiva:** Design limpo e adaptável para dispositivos móveis e desktop, utilizando `React Icons` para uma navegação visualmente intuitiva.
-
----
 
 ## 🛠️ Como Executar o Projeto Localmente
 
