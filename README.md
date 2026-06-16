@@ -40,7 +40,4 @@ Siga os passos abaixo para rodar a aplicação em sua máquina:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/Thyago-png/Thyago-png.git](https://github.com/Thyago-png/Thyago-png.git)
-cd tarefaslt-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone [https://github.com/Thyago-png/Thyago-png.git]
