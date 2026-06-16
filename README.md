@@ -40,4 +40,4 @@ Siga os passos abaixo para rodar a aplicação em sua máquina:
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/Thyago-png/Thyago-png.git]
+git clone (https://github.com/Thyago-png/Tarefas-Plus.git)
